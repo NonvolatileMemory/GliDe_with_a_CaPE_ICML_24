@@ -1,7 +1,7 @@
-# GliDe_with_a_CaPE_ICML_24
-official code for GliDe with a CaPE
+# GliDe with a CaPE ICML 2024
+Official code for GliDe with a CaPE.
 
-currently, the codebase is a little bit ugly, and I will try to re-built it.
+Currently, the codebase is a little bit ugly, and I will try to re-built it.
 
 # TODO
 - [x] Triton-based Tree Attention
